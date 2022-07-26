@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  margin: 1px;
+}
+
+.news {
+  justify-content: space-around;
+  border: 1px solid lightskyblue;
+  width: 35%;
+  padding: 1px;
+}
+
+.post {
+  border: 1px solid gray;
+}
+
+.headline {
+  background-color: lightgrey;
+}
+
+.imgPost {
+  width: 30px;
+}
+
+table, th, td {
+    text-align: center;
+    margin: 2%;
+  border: 1px solid black;
+}
+
+#canvasFace{
+    width: 200px;
+    height: 200px;
+}
